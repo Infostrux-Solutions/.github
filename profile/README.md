@@ -13,6 +13,9 @@ Infostrux is a mission-focused company and our mission is to empower organizatio
 We do this by investing in developing the leaders of a data-driven tomorrow both within our own team and the organizations we help. 
 We are building the world’s data team and would be delighted to work with you.
 
+Hiring:
+We are always hiring, so please apply here: https://www.infostrux.com/careers/
+
 We believe in giving back, so we have released some of our Terraform Snowflake modules as Open-Source. 
 If you would like to contribute, please email us at opensource@infostrux.com.
 <!--
