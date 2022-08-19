@@ -1,23 +1,13 @@
 ## Hi there 👋
 
-Who we are:
-We are Infostrux Solutions, we is a Snowflake Elite Services Partner, building and operating reliable ‘as code’ data cloud solutions for business intelligence, data analytics, and data product use cases. 
-Our data engineers and architects are SnowPro certified professionals ready to take on challenging projects. 
-Infostrux is fully invested in the Snowflake’s Data Cloud platform and continues to deepen the partnership with Snowflake and the technology partner ecosystem around it.
+We are Infostrux Solutions, a Snowflake Elite Services Partner, building and operating reliable ‘as code’ data cloud solutions for business intelligence, data analytics, and data product use cases. Our data engineers and architects are SnowPro-certified professionals ready to take on challenging projects. Infostrux leads Snowflake-centric innovation from the front, continuously deepening its partnership with Snowflake and the technology partner ecosystem around it.
 
-Vision:
-Infostrux vision is to be the world’s data team.
+Infostrux is a mission-focused company: to empower organizations to innovate with data by creating trusted and efficient solutions. We do this by investing in developing the leaders of a data-driven tomorrow both within our own team and the organizations we help. We are building the world’s data team and would be delighted to work with you.
 
-Mission:
-Infostrux is a mission-focused company and our mission is to empower organizations to innovate with data by creating trusted and efficient solutions. 
-We do this by investing in developing the leaders of a data-driven tomorrow both within our own team and the organizations we help. 
-We are building the world’s data team and would be delighted to work with you.
-
-Hiring:
 We are always hiring, so please apply here: https://www.infostrux.com/careers/
 
-We believe in giving back, so we have released some of our Terraform Snowflake modules as Open-Source. 
-If you would like to contribute, please email us at opensource@infostrux.com.
+We believe in giving back, so we have released some of our Terraform Snowflake modules as Open-Source. If you would like to contribute, please email us at opensource@infostrux.com.
+
 <!--
 
 **Here are some ideas to get you started:**
